@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node.js, MERN stack**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,JAVA,Bootstrap,SQL**
+- 💬 Ask me about **JAVA,HTML,CSS,JavaScript,Bootstrap,SQL**
 
 - 📫 How to reach me **vermasagar0101@gmail.com**
 
